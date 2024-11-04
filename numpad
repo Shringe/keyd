@@ -1,0 +1,44 @@
+[numpad]
+w = up
+a = left
+s = down
+d = right
+e = tab
+
+1 = a
+2 = b
+3 = c
+4 = g
+5 = k
+6 = e
+7 = t
+8 = h
+9 = l
+
+y = (
+u = 1
+i = 2
+o = 3
+p = backspace
+[ = timeout(+, 200, macro(\ruidmljid))
+] = -
+
+h = )
+j = 4
+k = 5
+l = 6
+; = *
+' = =
+
+z = x
+x = o
+c = z
+b = timeout(macro(\dqsf), 160, √)
+n = ^
+m = 7
+, = 8
+. = timeout(9, 160, 0)
+/ = /
+
+#[root]
+#1 = macro(√1)

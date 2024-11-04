@@ -1,0 +1,20 @@
+[extend]
+# Top Row
+u = home
+i = pagedown
+o = pageup
+p = end
+
+[ = delete
+
+# Home Row
+d = layer(symbols)
+f = layer(control)
+
+
+j = left
+k = down
+l = up
+; = right
+
+' = backspace
